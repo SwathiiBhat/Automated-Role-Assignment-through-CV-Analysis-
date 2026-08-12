@@ -72,13 +72,5 @@ streamlit run app.py
 - Support multiple resume formats (DOCX, HTML).
 - Expand classification to include more job roles.
 
----
 
-## 👨‍💻 Author
 
-**Harsha**  
-Cybersecurity Enthusiast | Cloud Architect | Machine Learning Explorer  
-[![LinkedIn](https://www.linkedin.com/in/harsha-vardhan-dumpa-862082233/)  
-[![GitHub](https://arshavardhan.github.io/portfolio/)
-
----
