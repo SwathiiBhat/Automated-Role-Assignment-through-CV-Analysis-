@@ -1,4 +1,4 @@
-# 📄 AUTOMATED-JOB-ROLE-MATCHING-USING-NLP-TECHNIQUES
+# 📄 Automated Role Assignment through CV Analysis
 
 An intelligent, machine learning-based system to automate the screening of resumes. This project helps recruiters by automatically classifying, analyzing, and ranking candidates based on their relevance to a specific job role.
 
